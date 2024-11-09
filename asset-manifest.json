@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0135457.css",
+    "main.js": "/static/js/main.f1a65397.js",
+    "static/media/recursive-sans.ttf": "/static/media/recursive-sans.14356addbc8f40b6ed18.ttf",
+    "static/media/skyhook_mono.ttf": "/static/media/skyhook_mono.6874c1ad985772e503ec.ttf",
+    "static/media/Grab.svg": "/static/media/Grab.822b70f9e610857c9d4a.svg",
+    "static/media/Point.svg": "/static/media/Point.3ce83b0d263b958cf7e8.svg",
+    "static/media/Grabbing.svg": "/static/media/Grabbing.fb7bae4299ffc45e930a.svg",
+    "static/media/Write.svg": "/static/media/Write.f212435332949b01580d.svg",
+    "static/media/Default.svg": "/static/media/Default.454fbdc98c26204950ad.svg",
+    "static/media/Logo.svg": "/static/media/Logo.672c10fd7a3d8f7b6eb3.svg",
+    "index.html": "/index.html",
+    "main.c0135457.css.map": "/static/css/main.c0135457.css.map",
+    "main.f1a65397.js.map": "/static/js/main.f1a65397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0135457.css",
+    "static/js/main.f1a65397.js"
+  ]
+}
