@@ -1,0 +1,35 @@
+// Images
+$cursor-default: url('/assets/icons/cursors/Default.svg') 5 5;
+$cursor-point: url('/assets/icons/cursors/Point.svg') 5 5;
+$cursor-write: url('/assets/icons/cursors/Write.svg') 10 10;
+$cursor-grab: url('/assets/icons/cursors/Grab.svg');
+$cursor-grabbing: url('/assets/icons/cursors/Grabbing.svg');
+
+
+body,
+.cursor-default {
+    cursor: $cursor-default, default;
+}
+
+a,
+button,
+[role="button"],
+.cursor-point {
+    cursor: $cursor-point, pointer;
+}
+
+input[type="text"],
+textarea,
+.cursor-write {
+    cursor: $cursor-write, text;
+}
+
+[draggable="true"],
+.cursor-grab {
+    cursor: $cursor-grab, grab;
+}
+
+[draggable="true"]:active,
+.cursor-grabbing {
+    cursor: $cursor-grabbing, grabbing;
+}

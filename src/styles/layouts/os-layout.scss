@@ -1,0 +1,11 @@
+@import '../widgets/cursors/point-cursor.scss';
+@import './os-layout/os-panel.scss';
+
+.os-layout{
+    @include fullscreen;
+    background-color: $theme-bg;
+
+    .os-panel{
+        @include wh-100;
+    }
+}
